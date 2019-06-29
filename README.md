@@ -1,4 +1,4 @@
-# ros_lidar_ws
+# lidar_move_base_frame
 
 建图启动过程
 启动雷达：roslaunch xdzn_rplidar rplidar.launch
